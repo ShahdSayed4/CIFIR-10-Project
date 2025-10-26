@@ -1,0 +1,3 @@
+# This file ensures Git maintains the saved_models directory structure
+# Actual model files (*.pth, *.pt) are ignored via .gitignore
+# Place trained model files in this directory locally
